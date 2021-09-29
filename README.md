@@ -1,2 +1,2 @@
-# STAGE-1A-EDG
-Code et compte-rendu de mon stage Assistant Ingénieur chez EDF
+# SUMMER INTERNSHIP 1A EDF
+Code and feedback on my first-year summer internship at EDF
