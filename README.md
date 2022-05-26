@@ -1,2 +1,2 @@
 # SUMMER INTERNSHIP 1A EDF
-Code and report on my first-year summer internship at EDF
+Code of my first-year summer internship at EDF
